@@ -11,7 +11,7 @@ public class Item {
     }
 
     /**
-     * commentaier répondant à l'éxigence #1.
+     * commentaire sur exigence #1
      * @return
      */
     public Object getValue() {
